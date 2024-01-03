@@ -27,4 +27,4 @@ python3 script_1.py
 ```
 Пока скрипт крутится - бот работает. Чтобы запустить таймер отправьте сообщения формата: ns, где n - количество секунд, например 5 s.
 ### Результат
-![](/home/lucky0ne/Python_Learn/DevMan/Python_basics/Timer_Telegramm_Bot/timer_tg_bot.gif)
+![](https://github.com/BigBadRussian/Timer_Telegramm_Bot/blob/master/timer_tg_bot.gif)
