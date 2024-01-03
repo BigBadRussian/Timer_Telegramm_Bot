@@ -26,5 +26,5 @@ pip install -r requirements.txt
 python3 script_1.py
 ```
 Пока скрипт крутится - бот работает. Чтобы запустить таймер отправьте сообщения формата: ns, где n - количество секунд, например 5 s.
-### Результат
+### Пример работы
 ![](https://github.com/BigBadRussian/Timer_Telegramm_Bot/blob/master/timer_tg_bot.gif)
